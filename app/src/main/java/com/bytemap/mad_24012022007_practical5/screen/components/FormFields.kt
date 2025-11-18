@@ -71,7 +71,7 @@ fun GreetingPreview() {
     Pactical5Theme {
         FormField(
             label = "Name",
-            textState = "Pratham",
+            textState = "Divy",
             onTextChange = {}
         )
     }
